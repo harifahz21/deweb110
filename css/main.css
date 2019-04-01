@@ -3,20 +3,36 @@ body,html{
     margin:0 auto;
 }   
 .section1{
-    background: url(../img/maxresdefault.jpg);
+    background: url(../img/planeten100__v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg);
     width: 100%;
     height: 100%;
+    padding:0 auto;
     text-align: center;
 }
-.Judul1{
-    font-family: arial;
-    font-weight: 800;
+.judul{
+    font-family: Forte;
+    font-weight: 500;
+    font-size: 50px;
+    color: blueviolet;
+}   
+.sub-judul{
+    font-family: Bebas Neue;
     font-size: 30px;
-    color: black;   
+    color: skyblue;
 }
-.sub-Judul1{
-    
+.sub-judul1{
+    font-family: Forte;
+    font-weight: 400;
+    font-size: 30px;
+    color: aqua;
 }
-.isi{
-    
+.section2{
+    padding:100px 0px;
+    background: gray;
+}
+.col-kiri{
+    background: white;
+}
+.col-kanan{
+    background: skyblue; 
 }
