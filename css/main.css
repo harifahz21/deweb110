@@ -36,3 +36,15 @@ body,html{
 .col-kanan{
     background: skyblue; 
 }
+.section3{
+    min-height: 360px;
+    padding: 500px 0px;
+    background: grey;
+}
+.link{
+    padding: 13px 18px;
+    color: rebeccapurple;
+}
+.link:hover{
+    background: lightseagreen;
+}
