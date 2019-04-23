@@ -1,45 +1,115 @@
-body,html{
+.body,html{
     height: 100%;
     margin:0 auto;
 }   
 .section1{
-    background: url(../img/planeten100__v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg);
+    background: url(../img/c7a884d3937694abcb4c31789c3d3e85.jpg);
     width: 100%;
     height: 100%;
-    padding:0 auto;
+    padding: 200px 0px;
     text-align: center;
+    background-size: 50%;
 }
 .judul{
-    font-family: Forte;
+    font-family: inherit;
     font-weight: 500;
-    font-size: 50px;
-    color: blueviolet;
+    font-size: 75px;
+    color: peru;
 }   
-.sub-judul{
-    font-family: Bebas Neue;
-    font-size: 30px;
-    color: skyblue;
+.judul2{
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 55px;
+    color: grey;
 }
-.sub-judul1{
-    font-family: Forte;
-    font-weight: 400;
-    font-size: 30px;
-    color: aqua;
+.judul3{
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 35px;
+    color: mediumblue;
+}
+.judul4{
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 40px;
+    color: hotpink;
 }
 .section2{
     padding:100px 0px;
-    background: gray;
+    background-color: bisque;
+}
+.circlepict{
+    border-radius: 80%;
+    opacity: 0.7;
+    border: 4px solid violet;
 }
 .col-kiri{
-    background: white;
+    background: azure;
+    padding: 40px 20px;
+    font-family: cursive;
+    font-weight: 300;
+    font-size: 25px;
+    color: grey;
+}
+.col{
+    background: azure;
+    padding: 40px 20px;
+    font-family: cursive;
+    font-weight: 300;
+    font-size: 25px;
+    color: grey;
 }
 .col-kanan{
-    background: skyblue; 
+    background: azure;
+    padding: 40px 20px;
+    font-family: cursive;
+    font-weight: 300;
+    font-size: 25px;
+    color: grey;
+}
+.sub-judul1{
+    font-family: fantasy;
+    font-weight: 400;
+    font-size: 40px;
+    color: grey;
+    padding: 20px 0px;
+}
+.sub-judul11{
+    font-family: cursive;
+    font-weight: 300;
+    font-size: 25px;
+    color: grey;
 }
 .section3{
-    min-height: 360px;
-    padding: 500px 0px;
-    background: grey;
+    min-height: 150px;
+    padding: 100px 50px;
+    background: url(../img/water-color-abstract-background-painting_23-2148117961.jpg);
+    background-size: 100%;
+}
+.section4{
+    min-height: 150px;
+    padding: 100px 50px;
+    background: url(../img/light-blue-yellow-brushstroke-abstract-textured-backdrop_23-2148117962.jpg);
+    background-size: 100%;
+}
+.skilll1{
+    font-family: fantasy;
+    font-weight: 400;
+    font-size: 75px;
+    color: darkviolet;
+    padding: 50px 0px;
+}
+.col-kanan1{
+    font-family: cursive;
+    font-weight: 300;
+    font-size: 30px;
+    color: grey;
+}
+.col-kanan2{
+    font-family: cursive;
+    font-weight: 300;
+    font-size: 20px;
+    color: grey;
 }
 .link{
     padding: 13px 18px;
